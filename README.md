@@ -98,7 +98,7 @@
 
 </div>
 
-## Data Tecnologies
+## Database technologies
 
 <div align="center">
 
