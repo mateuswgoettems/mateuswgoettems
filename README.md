@@ -11,6 +11,12 @@
 <br>
 <br>
 
+<div align="center">
+  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuswgoettems&&theme=chartreuse-dark&show_icons=true&langs_count=15" />
+</div>
+
+<br>
+<br>
 ## Most used Technologies
 
 <div align="center">
