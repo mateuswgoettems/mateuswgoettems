@@ -102,7 +102,11 @@
 <a href="https://www.netlify.com/">
     <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&labelColor=00C7B7&logo=netlify&logoColor=white"/>
 </a>
-
+  
+  <a href="">
+    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white/>
+</a>
+ 
 </div>
 
 ## Database technologies
