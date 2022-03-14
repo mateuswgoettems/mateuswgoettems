@@ -23,10 +23,11 @@
 ## Most used Technologies
 
 <div align="center">
-  
+
 <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=F05032&logo=git&logoColor=white"/>
 </a>
+<a href="https://nestjs.com"><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
 
 <a href="https://www.docker.com/">
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=2496ED&logo=Docker&logoColor=white"/>
@@ -67,6 +68,7 @@
 <a href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&labelColor=3178C6&logo=typescript&logoColor=white"/>
 </a>
+<a href="https://nestjs.com"><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
 
 <a href="https://nodejs.org/en/">
     <img src="https://img.shields.io/badge/-Node-339933?style=for-the-badge&labelColor=339933&logo=node.js&logoColor=white"/>
@@ -84,6 +86,10 @@
 
 <a href="https://www.docker.com/">
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=2496ED&logo=Docker&logoColor=white"/>
+</a>
+
+<a href="https://docs.github.com/pt/actions/learn-github-actions">
+    <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </a>
 
 <a href="https://cloud.google.com/">
@@ -104,11 +110,18 @@
 <a href="https://www.netlify.com/">
     <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&labelColor=00C7B7&logo=netlify&logoColor=white"/>
 </a>
-  
-  <a href="">
+
+<a href="">
     <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </a>
- 
+<a href="https://github.com">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://docs.gitlab.com/ee/ci/">
+  <img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</a>
+
 </div>
 
 ## Database technologies
