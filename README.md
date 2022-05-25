@@ -87,6 +87,10 @@
 <a href="https://www.docker.com/">
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=2496ED&logo=Docker&logoColor=white"/>
 </a>
+  
+  <a href="https://aws.amazon.com/">
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</a>
 
 <a href="https://docs.github.com/pt/actions/learn-github-actions">
     <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
