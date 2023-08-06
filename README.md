@@ -2,7 +2,7 @@
 
 <p align="center">I'm graduating in Computer Science on URI - Santo Ângelo. Lately I've been studying DevOps technologies. With this stack, it's possible to automate all the processes that used to be laborious. I'm working out to reach my long term goals wich are reach a level wich I could create a fully automated, secure system, in which project delivery is done quickly, securely and without complications. In other words, becoming a DevOps engineer and finish the graduation as soon as possible to move to Canada or Greece</p>
 
-<p align="center"> See more about me at https://mateuswelter.com </p>
+<p align="center"> See more about me at https://mateuswelter.dev </p>
 
 <br>
 
