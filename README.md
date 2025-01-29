@@ -1,8 +1,12 @@
 ## Hello guys! My name is Mateus Welter
 
-<p align="center">I'm graduating in Computer Science on URI - Santo Ângelo. Lately I've been studying DevOps technologies. With this stack, it's possible to automate all the processes that used to be laborious. I'm working out to reach my long term goals wich are reach a level wich I could create a fully automated, secure system, in which project delivery is done quickly, securely and without complications. In other words, becoming a DevOps engineer and finish the graduation as soon as possible to move to Canada or Greece</p>
+<p align="center">I am a Support Engineer III at e-Core, passionate about technology and problem-solving. With over two years of experience as a DevOps Engineer, I specialize in cloud infrastructure, automation, and observability.
 
-<p align="center"> See more about me at https://mateuswelter.dev </p>
+I hold certifications as an AWS Cloud Practitioner and Apollo Graph Developer – Associate and Professional, demonstrating my expertise in GraphQL and cloud environments. I have hands-on experience with Kubernetes, Docker, and CI/CD, always aiming to enhance performance and scalability.
+
+Currently in my 9th semester of Computer Science, I combine academic learning with real-world experience, staying up to date with industry best practices.</p>
+
+<p align="center">More about my work: <a href="https://mateuswelter.dev" target="_blank">mateuswelter.dev</a></p>
 
 <br>
 
@@ -24,22 +28,28 @@
 
 <div align="center">
 
+
+<a href="https://www.terraform.io/">
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+</a>
+
 <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=F05032&logo=git&logoColor=white"/>
 </a>
-<a href="https://nestjs.com"><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
 
+<a href="https://kubernetes.io/">
+    <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</a>
+
+<a href="https://nestjs.com"><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
 <a href="https://www.docker.com/">
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=2496ED&logo=Docker&logoColor=white"/>
 </a>
 
-<a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&labelColor=3178C6&logo=typescript&logoColor=white"/>
+<a href="https://nodejs.org/en/">
+    <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white"/>
 </a>
 
-<a href="https://nodejs.org/en/">
-    <img src="https://img.shields.io/badge/-Node-339933?style=for-the-badge&labelColor=339933&logo=node.js&logoColor=white"/>
-</a>
 
 </div>
 
@@ -73,9 +83,8 @@
 <a href="https://nodejs.org/en/">
     <img src="https://img.shields.io/badge/-Node-339933?style=for-the-badge&labelColor=339933&logo=node.js&logoColor=white"/>
 </a>
-
-<a href="https://php.net/">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<a href="https://nodejs.org/en/">
+    <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white"/>
 </a>
 
 </div>
@@ -84,10 +93,32 @@
 
 <div align="center">
 
+<a href="https://www.terraform.io/">
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+</a>
+<a href="https://www.terraform.io/">
+    <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white"/>
+</a>
+
+
+
+<a href="https://www.proxmox.com/en/">
+    <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
+</a>
+<a href="https://www.proxmox.com/en/">
+    <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white"/>
+</a>
+
 <a href="https://www.docker.com/">
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=2496ED&logo=Docker&logoColor=white"/>
 </a>
-  
+<a href="https://kubernetes.io/">
+    <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</a>
+
+<a href="https://aws.amazon.com/">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
+</a>
   <a href="https://aws.amazon.com/">
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </a>
@@ -95,35 +126,29 @@
 <a href="https://docs.github.com/pt/actions/learn-github-actions">
     <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </a>
-
-<a href="https://cloud.google.com/">
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<a href="https://docs.gitlab.com/ee/ci/">
+  <img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </a>
 
 <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=F05032&logo=git&logoColor=white"/>
 </a>
-
 <a href="https://about.gitlab.com/">
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
-</a>
-
-<a href="https://vercel.com/">
-    <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&labelColor=000000&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://www.netlify.com/">
-    <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&labelColor=00C7B7&logo=netlify&logoColor=white"/>
-</a>
-
-<a href="">
-    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </a>
 <a href="https://github.com">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://docs.gitlab.com/ee/ci/">
-  <img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<a href="https://vercel.com/">
+    <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&labelColor=000000&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://vercel.com/">
+    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/>
+</a>
+
+<a href="">
+    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </a>
 
 </div>
@@ -151,7 +176,7 @@
 ## Contact
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mateus-goettems-29988b14a/">
+  <a href="https://www.linkedin.com/in/mateus-w-29988b14a/">
     <img src="https://img.shields.io/badge/-Mateus Welter-0077b5?style=for-the-badge&labelColor=0077b5&logo=linkedin&logoColor=white"/>
   </a>
 
@@ -161,10 +186,6 @@
 
   <a href="https://app.rocketseat.com.br/me/mateus-welter-goettems-04657">
     <img src="https://img.shields.io/badge/-Mateus-7159C1?style=for-the-badge&labelColor=7159C1&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==" />
-  </a>
-
-  <a href="https://www.instagram.com/mateuux_/">
-    <img src="https://img.shields.io/badge/-mateuux_-f61?style=for-the-badge&labelColor=f61&logo=instagram&logoColor=white"/>
   </a>
 
 </div>
