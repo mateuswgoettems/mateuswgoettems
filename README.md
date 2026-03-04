@@ -1,28 +1,17 @@
-## Hello guys! My name is Mateus Welter
+## Hello Everyone! My name is Mateus Welter Goettems
 
-<p align="center">I am a Support Engineer III at e-Core, passionate about technology and problem-solving. With over two years of experience as a DevOps Engineer, I specialize in cloud infrastructure, automation, and observability.
+<p align="center">I’m a Support Engineer III at e-Core with a strong passion for technology and problem-solving. Over the past few years, I’ve built solid experience in DevOps, focusing on cloud infrastructure, automation, and observability.
 
-I hold certifications as an AWS Cloud Practitioner and Apollo Graph Developer – Associate and Professional, demonstrating my expertise in GraphQL and cloud environments. I have hands-on experience with Kubernetes, Docker, and CI/CD, always aiming to enhance performance and scalability.
+<p align="center">I hold certifications as an AWS Cloud Practitioner and Apollo Graph Developer (Associate and Professional), reflecting my experience working with GraphQL platforms and cloud-native environments. My day-to-day work often involves Kubernetes, Docker, and CI/CD pipelines, where I focus on improving reliability, scalability, and operational efficiency.
 
-Currently in my 9th semester of Computer Science, I combine academic learning with real-world experience, staying up to date with industry best practices.</p>
+<p align="center">I also contribute to the Apollo ecosystem through my GitHub profile: 👉 https://github.com/apollo-mateuswgoettems
+
+<p align="center">Some of these contributions include commits and pull requests to Apollo Router and Federation.
+
+<p align="center">Currently in my 9th semester of Computer Science, I enjoy combining academic learning with hands-on experience, continuously exploring new tools and best practices to build better systems. I’m also currently learning Rust, exploring its ecosystem and applying it to better understand high-performance and systems-level development. </p>
 
 <p align="center">More about my work: <a href="https://mateuswelter.dev" target="_blank">mateuswelter.dev</a></p>
 
-<br>
-
-<div align="center">
-  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mateuswgoettems&show_icons=true&theme=radical" />
-</div>
-
-<br>
-<br>
-
-<div align="center">
-  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuswgoettems&&theme=chartreuse-dark&show_icons=true&langs_count=15" />
-</div>
-
-<br>
-<br>
 
 ## Most used Technologies
 
